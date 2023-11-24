@@ -1,5 +1,5 @@
 # Домашняя работа по теме "Базовые понятия MongoDB, CRUD, фильтры"
-### В качестве dataset используется [Earth Meteorite Landings](https://data.nasa.gov/resource/y77d-th95.json)
+В качестве dataset используется [Earth Meteorite Landings](https://data.nasa.gov/resource/y77d-th95.json)
 ### Создать новую коллекцию
 ![New Collection](./01.png?raw=true)
 ### Импортируем данные через MongoDB Compass
